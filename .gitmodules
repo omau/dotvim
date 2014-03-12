@@ -7,3 +7,6 @@
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = http://github.com/tpope/vim-abolish
+[submodule "bundle/vim-gundo"]
+	path = bundle/vim-gundo
+	url = git://github.com/sjl/gundo.vim.git
